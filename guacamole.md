@@ -6,3 +6,6 @@
 - lime
 - yellow onion
 - garlic
+
+## Instructions
+Mash the avocado with joy or with agression, you decide.
